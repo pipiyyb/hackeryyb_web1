@@ -1,7 +1,6 @@
 # hackeryyb_web1
 图文详细操作在pdf里
 1. 下载 hackeryyb.tar.gz 到指定目录下后进行解压 （适配 gzctf 平台项目）
-
 链接: https://pan.baidu.com/s/1fFCRclWR2bvlB4jGqIVhCA?pwd=gank 提取码: gank 
 解压到当前目录
 tar -xzf hackeryyb.tar.gz
