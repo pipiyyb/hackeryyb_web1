@@ -1,7 +1,7 @@
-<img width="865" height="328" alt="图片" src="https://github.com/user-attachments/assets/f4c25b61-3709-4168-a061-f3f545fd3232" /># hackeryyb_web1
+# hackeryyb_web1
+图文详细操作在pdf里
 1. 下载 hackeryyb.tar.gz 到指定目录下后进行解压 （适配 gzctf 平台项目）
 解压到当前目录
-
 tar -xzf hackeryyb.tar.gz
 cd hackeryyb
 3. 导入基础镜像
